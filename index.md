@@ -4,7 +4,7 @@ title: Dr. Wang
 
 # Doctor Yunsheng Wang
 
-<img aligh="right" width="200" height="300" src="assets/Wang_Yunsheng.jpg">
+<img align="right" width="200" height="300" src="assets/Wang_Yunsheng.jpg">
 
 I am an Associate Professor in the Department of Computer Science at Kettering University (Link). I received my PhD in Computer Science at Temple University in August, 2013, working under the supervision of Prof. Jie Wu (Link: https://cis.temple.edu/~wu/).
 
