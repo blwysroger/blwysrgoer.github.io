@@ -1,3 +1,4 @@
-# Custom website made for Doctor Wang from Kettering University
+# Dr. Wang's Website
+
 
 
