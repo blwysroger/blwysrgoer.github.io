@@ -10,7 +10,16 @@ I am an Associate Professor in the Department of Computer Science at [Kettering 
 
 My research interests include various topics in the application and protocols of wireless networks. My current research focuses on Autonomous and Connected Vehicles from different aspects, including vehicle network communication, HD map navigation, vehicle edge computing, and vehicle cybersecurity.   
 
-I am actively looking for self-motivated graduate/undergraduate students to join my research team.   
+I am actively looking for self-motivated graduate/undergraduate students to join my research team.
+
+ - [Research Interests](#Research-Interests)
+ - [Teaching Experience](#Teaching-Experience)
+ - [Sponsored Research](#Sponsored-Research)
+ - [Publications](#Publications)
+    - [Books](#Books)
+    - [Journal Papers](#Journal-Papers)
+    - [Conference Papers](#Conference-Papers)
+ - [Resume](#Resume)
 
 ## Research Interests
 Mobile Computing and Wireless Networks <br>
@@ -58,7 +67,7 @@ Social Network Applications <br>
 
 ## Publications
 
-### Book and Book Chapter
+### Books
 
 1. Jie Wu and Yunsheng Wang (Eds.). “Opportunistic Mobile Social Networks”, CRC Press, 1st Edition. ISBN: 978-1466594944, 541 pages. August 5, 2014.
 
