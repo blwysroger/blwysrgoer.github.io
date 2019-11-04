@@ -21,7 +21,6 @@ I am actively looking for self-motivated graduate/undergraduate students to join
     - [Conference Papers](#Conference-Papers)
  - [Resume](#Resume)
 
-## Research-Interests ##
 ## Research Interests
 Mobile Computing and Wireless Networks <br>
 Vehicular Networks <br>
