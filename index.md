@@ -2,7 +2,7 @@
 title: Dr. Wang
 ---
 
-# Doctor Yunsheng Wang
+# Dr. Yunsheng Wang
 
 <img align="right" width="200" height="300" src="assets/Wang_Yunsheng.jpg">
 
@@ -13,8 +13,9 @@ My research interests include various topics in the application and protocols of
 I am actively looking for self-motivated graduate/undergraduate students to join my research team.
 
  - [Research Interests](#Research-Interests)
- - [Teaching Experience](#Teaching-Experience)
+ - [Employment History](#Teaching-Experience)
  - [Sponsored Research](#Sponsored-Research)
+ - [Award](#Award)
  - [Publications](#Publications)
     - [Books](#Books)
     - [Journal Papers](#Journal-Papers)
@@ -27,12 +28,12 @@ Vehicular Networks <br>
 Autonomous Vehicles <br>
 Social Network Applications <br>
 
-## Teaching Experience
+## Employment History
 <p>
   <span style="float: left">Associate Professor (7/2019 - Present)</span>
   <span style="float: right">Kettering University, USA</span>
 <br>
-  <span style="float: left">Assistant Professor (9/2013)</span>
+  <span style="float: left">Assistant Professor (9/2013-6/2019)</span>
   <span style="float: right">Kettering University, USA</span>
 </p>
 <br>
@@ -64,6 +65,14 @@ Social Network Applications <br>
 <br>
 <br>
 </p>
+
+## Award
+<p>
+  <span style="float: left">Nomination for Kettering University Outstanding Teacher Award 2018</span>
+<br>
+  <span style="float: left">Kettering University Outstanding New Researcher Award 2017 In recognition of
+significant contributions in the area of Wireless Network.</span>
+<br>
 
 ## Publications
 
