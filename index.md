@@ -20,6 +20,7 @@ I am actively looking for self-motivated graduate/undergraduate students to join
     - [Books](#Books)
     - [Journal Papers](#Journal-Papers)
     - [Conference Papers](#Conference-Papers)
+ - [Invited Talks](#Invited-Talks)
  - [Resume](#Resume)
 
 ## Research Interests
@@ -112,6 +113,25 @@ significant contributions in the area of Wireless Network.</span>
 26. <b>Yunsheng Wang</b>, Xiaoguang Li, and Jie Wu. “Multicasting in Delay Tolerant Networks: Delegation Forwarding”, In IEEE Global Communications Conference (GLOBECOM), Miami, December 2010.
 27. Jie Wu and <b>Yunsheng Wang</b>. “A Non-Replication Multicasting Scheme in Delay Tolerant Networks”. In The 7th IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS), San Francisco, November 2010.
 28. Chi-Kin Chau, Muhammad Husni Wahab, Fei Qin, <b>Yunsheng Wang</b>, and Yang Yang. “Battery Recovery Aware Sensor Networks”, In IEEE 7th Intl. Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), Seoul, June 2009.
+
+## Invited Talks
+1. Huge Data for Connected Vehicles, NSF Large Scale Networking (LSN) Workshop on Huge Data: A Computing, Networking and Distributed Systems Perspective, April 2020
+2. Vehicle Edge Computing, Wayne State University, January 2020
+3. Vehicle Fog/Edge Computing, Shanghaitech University, China, December 2019
+4. Autonomous and Connected Vehicles, SGMW, Guangxi Science & Technology Department, Zhejiang Science & Technology Department, SAIC, and Tongji University, China, June 2019
+5. Autonomous and Connected Vehicles, Tongji University, Shanghai, China, January 2018
+6. Smart Vehicle Testbed for Future Intelligent Transportation System, The United States Army Tank Automotive Research, Development and Engineering Center
+(TARDEC), Warren, MI June 2017
+7. Vehicular Ad Hoc Networks (VANETs) , Shanghai Automotive Industry Corporation (SAIC), SAIC-GM-Wuling Automobile (SGMW), and China Automotive
+Technology and Research Center (CATARC), China, September 2016
+8. A Vehicle Testbed for Future Intelligent Transportation System, Continental, Troy, MI July 2016
+9. Flint Ignite, NSF Future Wireless Cities Workshop, Washington DC, February 2016.
+10. Next Generation Wireless Networks, Tongji University, Shanghai, China, March 2015
+11. Hierarchical Cooperative Caching in Mobile Opportunistic Social Networks, In IEEE Global Communications Conference (Globecom), Austin, TX, USA, December 2014.
+12. Heterogeneous Community-based Routing in Opportunistic Mobile Social Networks, In the third Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet), in conjunction with IEEE MASS 2014, Philadelphia, PA, October, 2014.
+13. Social Feature-based Multi-path Routing in Delay Tolerant Networks, The 31st Annual IEEE International Conference on Computer Communications (INFOCOM), Orlando, FL, March 2012.
+14. Multicasting in Delay Tolerant Networks: Delegation Forwarding, IEEE Global Communications Conference (GLOBECOM), Miami, December 2010.
+15. Harnessing Battery Recovery Eect in Wireless Sensor Networks, London Communications Research Symposium (LCS), London, UK, September 2008
 
 ## Resume
 [Link to Yunsheng Wang's Resume](/assets/resume.pdf)
