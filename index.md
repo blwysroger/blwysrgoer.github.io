@@ -96,7 +96,7 @@ significant contributions in the area of Wireless Network.</span>
 
 ### Conference Papers
 
-11. Wenquan Xu, Zhikang Chen, Chuwen Zhang, Xuefeng Ji, </b>Yunsheng Wang</b>, Hang Su, and Bin Liu, \GlobalInsight: An LSTM Based Model for Multi-Vehicle Trajectory Prediction", in IEEE International Conference on Communications (ICC), Dublin, Ireland, June, 2020
+11. Wenquan Xu, Zhikang Chen, Chuwen Zhang, Xuefeng Ji, </b>Yunsheng Wang</b>, Hang Su, and Bin Liu, “GlobalInsight: An LSTM Based Model for Multi-Vehicle Trajectory Prediction", in IEEE International Conference on Communications (ICC), Dublin, Ireland, June, 2020
 12. Ning Wang, and <b>Yunsheng Wang</b>, “AutoWaze: Towards Automatic Event Inference in Intelligent Transportation Systems”, in Midscale Education and Research Infrastructure and Tools (MERIT) In conjunction with IEEE ICNP, Chicago, Octorber 7-10, 2019.
 13. Xuefeng Ji, Wenquan Xu, Chuwen Zhang, Tong Yun, Gong Zhang, Xiaojun Wang, <b>Yunsheng Wang</b>, and Bin Liu. “Keep Forwarding Path Freshest in VANET via Applying Reinforcement Learning”, In The First International Workshop on Network Meets Intelligent Computations In conjunction with IEEE ICDCS 2019, Dallas, TX, July 7-10, 2019.
 14. Rachel Wyatt, <b>Yunsheng Wang</b>, and Tom Wyatt. “City Life: Tourism and Residential Engagement Mobile and Web Application” (Poster), Smart Cities Connect, Denver, CO, April 2019.
