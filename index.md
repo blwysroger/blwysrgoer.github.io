@@ -13,7 +13,6 @@ My research interests include various topics in the application and protocols of
 I am actively looking for self-motivated graduate/undergraduate students to join my research team.
 
  - [Research Interests](#Research-Interests)
- - [Employment History](#Employment-History)
  - [Publications](#Publications)
     - [Books](#Books)
     - [Journal Papers](#Journal-Papers)
@@ -26,14 +25,6 @@ Vehicular Networks <br>
 Autonomous Vehicles <br>
 Social Network Applications <br>
 
-## Employment History
-<p>
-  <span style="float: left">Associate Professor (7/2019 - Present)</span>
-  <span style="float: right">Kettering University, USA</span>
-<br>
-  <span style="float: left">Assistant Professor (9/2013-6/2019)</span>
-  <span style="float: right">Kettering University, USA</span>
-<br>
  
 ## Publications
 
