@@ -21,7 +21,6 @@ I am actively looking for self-motivated graduate/undergraduate students to join
     - [Journal Papers](#Journal-Papers)
     - [Conference Papers](#Conference-Papers)
  - [Invited Talks](#Invited-Talks)
- - [Resume](#Resume)
 
 ## Research Interests
 Mobile Computing and Wireless Networks <br>
@@ -36,7 +35,6 @@ Social Network Applications <br>
 <br>
   <span style="float: left">Assistant Professor (9/2013-6/2019)</span>
   <span style="float: right">Kettering University, USA</span>
-</p>
 <br>
 
 ## Sponsored Research
@@ -65,7 +63,6 @@ Social Network Applications <br>
 <i>Sponsor</i> : U.S. Department of Justice ($1,000,000)
 <br>
 <br>
-</p>
 
 ## Award
 <p>
@@ -85,6 +82,7 @@ significant contributions in the area of Wireless Network.</span>
 2. Yunsheng Wang and Jie Wu. “Multicast in Opportunistic Networks”, in Opportunistic Mobile Social Networks, J. Wu and Y. Wang (Eds.), CRC Press. 2014.
 
 ### Journal Papers
+
 3. Mingjun Xiao, Jie Wu, Liusheng Huang, Ruhong Cheng and <b>Yunsheng Wang</b>, “Online Task Assignment for Crowdsensing in Predictable Mobile Social Net- works”, IEEE Transactions on Mobile Computing, vol. 16, no. 8, pp. 2306-2320, Aug. 1 2017.
 4. Daqiang Zhang, Shengjie Zhao, Laurence T. Yang, Min Chen, <b>Yunsheng Wang</b>, and Huazhong Liu,“NextMe: Localization Using Cellular Traces in Internet of Things”, IEEE Transactions on Industrial Informatics, vol. 11, no. 2, pp. 302-312, April 2015.
 5. Jie Wu and <b>Yunsheng Wang</b>. “Hypercube-based Multi-path Social Feature Routing in Human Contact Networks”, IEEE Transactions on Computers (TC), vol. 63, no. 2, pp. 383-396, February, 2014.
@@ -117,6 +115,7 @@ significant contributions in the area of Wireless Network.</span>
 29. Chi-Kin Chau, Muhammad Husni Wahab, Fei Qin, <b>Yunsheng Wang</b>, and Yang Yang. “Battery Recovery Aware Sensor Networks”, In IEEE 7th Intl. Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), Seoul, June 2009.
 
 ## Invited Talks
+
 1. Huge Data for Connected Vehicles, NSF Large Scale Networking (LSN) Workshop on Huge Data: A Computing, Networking and Distributed Systems Perspective, April 2020
 2. Vehicle Edge Computing, Wayne State University, January 2020
 3. Vehicle Fog/Edge Computing, Shanghaitech University, China, December 2019
@@ -135,5 +134,3 @@ Technology and Research Center (CATARC), China, September 2016
 14. Multicasting in Delay Tolerant Networks: Delegation Forwarding, IEEE Global Communications Conference (GLOBECOM), Miami, December 2010.
 15. Harnessing Battery Recovery Eect in Wireless Sensor Networks, London Communications Research Symposium (LCS), London, UK, September 2008
 
-## Resume
-[Link to Yunsheng Wang's Resume](/assets/resume.pdf)
