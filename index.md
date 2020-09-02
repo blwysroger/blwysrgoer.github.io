@@ -27,14 +27,9 @@ Autonomous Vehicles <br>
 Social Network Applications <br>
 
 ## Employment History
-<p>
-  <span style="float: left">Associate Professor (7/2019 - Present)</span>
-  <span style="float: right">Kettering University, USA</span>
-<br>
-  <span style="float: left">Assistant Professor (9/2013-6/2019)</span>
-  <span style="float: right">Kettering University, USA</span>
-<br>
-<p>
+Associate Professor (7/2019 - Present) Kettering University, USA
+
+Assistant Professor (9/2013-6/2019)</span> Kettering University, USA
 
  
 ## Publications
