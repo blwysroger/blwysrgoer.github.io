@@ -37,31 +37,6 @@ Social Network Applications <br>
 <br>
 
 ## Sponsored Research
-<p>
-  <span style="float: left">Secure and Trustworthy Connected Vehicles (co-PI)</span>
-  <span style="float: right">11/2019 - 11/2020</span>
-<br>
-<i>Sponsor</i> : Kettering University Faculty Research Fellowship Award ($6,000)
-<br>
-<br>
-  <span style="float: left">Integration of Wireless Sensor Networks and Mobile Social Networks – Crowd - sensing (PI)</span>
-  <span style="float: right">11/2018 - 11/2019</span>
-<br>
-<i>Sponsor</i> : Kettering University Faculty Research Fellowship Award ($6,000)
-<br>
-<br>
-  <span style="float: left">SAE AutoDrive Challenge (Co-PI)</span>
-  <span style="float: right">3/2017 - 3/2020</span>
-<br>
-<i>Sponsor</i> : Society of Automotive Engineers (SAE) and General Motors (GM) ($138,000)
-<br>
-<br>
-  <span style="float: left">Byrne Criminal Justice Innovation Program: Planning and Implementation: Flint’s University Avenue Corridor Coalition (UACC) (Co-PI)</span>
-  <span style="float: right">10/2014 - 9/2017</span>
-<br>
-<i>Sponsor</i> : U.S. Department of Justice ($1,000,000)
-<br>
-<br>
 
 
 
