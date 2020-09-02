@@ -29,7 +29,7 @@ Social Network Applications <br>
 ## Employment History
 Associate Professor (7/2019 - Present) Kettering University, USA
 
-Assistant Professor (9/2013-6/2019)</span> Kettering University, USA
+Assistant Professor (9/2013-6/2019) Kettering University, USA
 
  
 ## Publications
