@@ -15,7 +15,6 @@ I am actively looking for self-motivated graduate/undergraduate students to join
  - [Research Interests](#Research-Interests)
  - [Employment History](#Teaching-Experience)
  - [Sponsored Research](#Sponsored-Research)
- - [Award](#Award)
  - [Publications](#Publications)
     - [Books](#Books)
     - [Journal Papers](#Journal-Papers)
@@ -64,14 +63,7 @@ Social Network Applications <br>
 <br>
 <br>
 
-## Award
-<p>
-  <span style="float: left">Nomination for Kettering University Outstanding Teacher Award 2018</span>
-<br>
-<br>
-  <span style="float: left">Kettering University Outstanding New Researcher Award 2017 In recognition of
-significant contributions in the area of Wireless Network.</span>
-<br>
+
 
 ## Publications
 
