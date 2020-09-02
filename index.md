@@ -132,5 +132,5 @@ Technology and Research Center (CATARC), China, September 2016
 12. Heterogeneous Community-based Routing in Opportunistic Mobile Social Networks, In the third Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet), in conjunction with IEEE MASS 2014, Philadelphia, PA, October, 2014.
 13. Social Feature-based Multi-path Routing in Delay Tolerant Networks, The 31st Annual IEEE International Conference on Computer Communications (INFOCOM), Orlando, FL, March 2012.
 14. Multicasting in Delay Tolerant Networks: Delegation Forwarding, IEEE Global Communications Conference (GLOBECOM), Miami, December 2010.
-15. Harnessing Battery Recovery Eect in Wireless Sensor Networks, London Communications Research Symposium (LCS), London, UK, September 2008
+15. Harnessing Battery Recovery Effect in Wireless Sensor Networks, London Communications Research Symposium (LCS), London, UK, September 2008
 
