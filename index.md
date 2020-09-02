@@ -14,7 +14,6 @@ I am actively looking for self-motivated graduate/undergraduate students to join
 
  - [Research Interests](#Research-Interests)
  - [Employment History](#Employment-History)
- - [Sponsored Research](#Sponsored-Research)
  - [Publications](#Publications)
     - [Books](#Books)
     - [Journal Papers](#Journal-Papers)
@@ -35,11 +34,7 @@ Social Network Applications <br>
   <span style="float: left">Assistant Professor (9/2013-6/2019)</span>
   <span style="float: right">Kettering University, USA</span>
 <br>
-
-## Sponsored Research
-
-
-
+ 
 ## Publications
 
 ### Books
